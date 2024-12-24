@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gustavo-Peixoto/contador.git/static/css/main.bb212f27.css",
-    "main.js": "/Gustavo-Peixoto/contador.git/static/js/main.c77b4492.js",
-    "static/js/488.83c3bc7f.chunk.js": "/Gustavo-Peixoto/contador.git/static/js/488.83c3bc7f.chunk.js",
-    "index.html": "/Gustavo-Peixoto/contador.git/index.html",
-    "main.bb212f27.css.map": "/Gustavo-Peixoto/contador.git/static/css/main.bb212f27.css.map",
-    "main.c77b4492.js.map": "/Gustavo-Peixoto/contador.git/static/js/main.c77b4492.js.map",
-    "488.83c3bc7f.chunk.js.map": "/Gustavo-Peixoto/contador.git/static/js/488.83c3bc7f.chunk.js.map"
+    "main.css": "/contador/static/css/main.bb212f27.css",
+    "main.js": "/contador/static/js/main.87272219.js",
+    "static/js/488.83c3bc7f.chunk.js": "/contador/static/js/488.83c3bc7f.chunk.js",
+    "index.html": "/contador/index.html",
+    "main.bb212f27.css.map": "/contador/static/css/main.bb212f27.css.map",
+    "main.87272219.js.map": "/contador/static/js/main.87272219.js.map",
+    "488.83c3bc7f.chunk.js.map": "/contador/static/js/488.83c3bc7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb212f27.css",
-    "static/js/main.c77b4492.js"
+    "static/js/main.87272219.js"
   ]
 }
