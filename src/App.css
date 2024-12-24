@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playwrite+ES+Deco+Guides&display=swap');
+
+body{
+    background-color: pink;
+    font-family: "Lobster", sans-serif;
+}
+  
+.container{
+    display: grid;
+    place-items: center;
+}
+
+.time-text{
+    font-size: 60px;
+}
+
+.time{
+    background-color: rgb(247, 218, 223);
+    border-radius: 5px;
+    border-style: double;
+    margin-top: 100px;
+    font-size: 50px;
+    width: 300px;
+    height: 350px;
+    padding: 10px;
+    text-align: center;
+}
