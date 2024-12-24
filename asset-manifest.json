@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gustavo-Peixoto/contador.git/static/css/main.bb212f27.css",
+    "main.js": "/Gustavo-Peixoto/contador.git/static/js/main.c77b4492.js",
+    "static/js/488.83c3bc7f.chunk.js": "/Gustavo-Peixoto/contador.git/static/js/488.83c3bc7f.chunk.js",
+    "index.html": "/Gustavo-Peixoto/contador.git/index.html",
+    "main.bb212f27.css.map": "/Gustavo-Peixoto/contador.git/static/css/main.bb212f27.css.map",
+    "main.c77b4492.js.map": "/Gustavo-Peixoto/contador.git/static/js/main.c77b4492.js.map",
+    "488.83c3bc7f.chunk.js.map": "/Gustavo-Peixoto/contador.git/static/js/488.83c3bc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb212f27.css",
+    "static/js/main.c77b4492.js"
+  ]
+}
